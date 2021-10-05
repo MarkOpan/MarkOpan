@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkOpan
-- 👀 I’m interested in Product Management, Business Analysis, and Product Marketing. 
+- 👀 I’m interested in Product Management, Business Analysis, Business Development, and Product Marketing. 
 - 🌱 I’m currently learning PSPO certification & JTBD Framework
 - 💞️ I’m looking to collaborate on Product MVP validation and Lead generation funnells
 - 📫 How to reach me: @mark_is_here on telegram OR LinkedIn: markopanasiuk
