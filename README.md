@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MarkOpan
-- 👀 I’m interested in Product Management, Business Analysis, Business Development, and Product Marketing. 
-- 🌱 I’m currently learning CS50 Introduction to Computer Science by Harvard University.
-- 💞️ I’m looking to collaborate on Product MVP validation and Lead generation funnells.
-- 📫 How to reach me: @mark_is_here on telegram OR LinkedIn: markopanasiuk.
-- Here is my Notion profile page: https://bit.ly/mark_cv 
+- 👀 I’m interested in Product Management, Business Analysis, Business Development, and Product Marketing. I am open to discuss new product opportunities or to join amazing product teams to build great products! Here is my CV: http://bit.ly/3jaw6Mi
+- 🌱 I’m a podcast host at Product Market Fat podcast - a product management podcast in Ukrainian language (https://t.me/wtf_is_pmf). https://wtf-is-pmf.top/ 
+- 💞️ I’m a Product Manager with 5+ years of experience managing web & mobile products, leading teams, and delivering results in fast-paced startups and complex b2b saas software development.
+- 📫 How to reach me: @mark_is_here on telegram OR LinkedIn: markopanasiuk. 
 
 <!---
 MarkOpan/MarkOpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
